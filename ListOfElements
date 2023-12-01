@@ -1,0 +1,12 @@
+//*[@id="homeIcon"]
+//*[@id="nav-link-home"]
+//*[@id="nav-link-profile"]
+//*[@id="nav-link-new-post"]
+//*[@id="search-bar"]
+//*[@id="choose-file"]
+//*[@id="create-post"]
+.//*[@class="btn btn-primary"]
+
+.//*[@class="uploadfilecontainer"]
+.//*[@class="form-control mb-4 ng-touched ng-dirty ng-invalid"]
+.//*[@class="custom-control custom-switch"]
